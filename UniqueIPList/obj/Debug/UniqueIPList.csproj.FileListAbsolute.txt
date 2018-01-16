@@ -1,0 +1,8 @@
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\UniqueIPList\UniqueIPList\bin\Debug\UniqueIPList.exe.config
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\UniqueIPList\UniqueIPList\bin\Debug\UniqueIPList.exe
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\UniqueIPList\UniqueIPList\bin\Debug\UniqueIPList.pdb
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\UniqueIPList\UniqueIPList\obj\Debug\UniqueIPList.Form1.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\UniqueIPList\UniqueIPList\obj\Debug\UniqueIPList.Properties.Resources.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\UniqueIPList\UniqueIPList\obj\Debug\UniqueIPList.csproj.GenerateResource.Cache
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\UniqueIPList\UniqueIPList\obj\Debug\UniqueIPList.exe
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\UniqueIPList\UniqueIPList\obj\Debug\UniqueIPList.pdb
